@@ -1,0 +1,22 @@
+.navbar {
+	background-color: #d3d3d3;
+	display:flex;
+}
+
+.logo {
+	flex: 4;
+	flex-basis: 500px;
+}
+
+.navlinks {
+	flex:2;
+}
+
+.rightnavspace {
+	flex:1;
+	flex-basis: 50px;
+}
+
+/*.border {
+	border: solid 2px blue;
+}*/
