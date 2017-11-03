@@ -58,3 +58,43 @@
   width: 300px;
   padding-top: 10px;
 }
+
+.work-edu {
+	display:flex;
+	justify-content: space-around;
+	padding-top: 20px;
+}
+
+.center {
+	text-align: center;
+}
+
+.work-container {
+	flex:1;
+
+}
+
+h4 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.button {
+	background-color: #b2b2ff;
+	padding: 20px;
+	color: white;
+	border-radius: 10px;
+	text-decoration: none;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.fa-bars {
+	padding-right: 10px;
+}
+
+.space {
+	padding-bottom: 20px;
+}
+
+
