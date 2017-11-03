@@ -1,6 +1,7 @@
 .navbar {
 	background-color: #d3d3d3;
 	display:flex;
+	align-items: center;
 }
 
 .logo {
@@ -20,3 +21,40 @@
 /*.border {
 	border: solid 2px blue;
 }*/
+
+.container {
+	display:flex;
+	justify-content: space-between;
+}
+
+.logo-size{
+	width: 200px;
+	padding: 10px;
+}
+
+.photos {
+	display:flex;
+	flex:2;
+	flex-wrap:wrap;
+	justify-content: space-between;
+
+	
+}
+
+.sidebar{
+	flex:1;
+}
+
+.jumbotron {
+	flex-basis: 1000px;
+	padding: 10px;
+}
+
+.card {
+	flex:1;
+}
+
+.image {
+  width: 300px;
+  padding-top: 10px;
+}
